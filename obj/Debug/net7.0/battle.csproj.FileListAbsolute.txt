@@ -1,0 +1,14 @@
+C:\Users\Montana\Desktop\battle\bin\Debug\net7.0\battle.exe
+C:\Users\Montana\Desktop\battle\bin\Debug\net7.0\battle.deps.json
+C:\Users\Montana\Desktop\battle\bin\Debug\net7.0\battle.runtimeconfig.json
+C:\Users\Montana\Desktop\battle\bin\Debug\net7.0\battle.dll
+C:\Users\Montana\Desktop\battle\bin\Debug\net7.0\battle.pdb
+C:\Users\Montana\Desktop\battle\obj\Debug\net7.0\battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Montana\Desktop\battle\obj\Debug\net7.0\battle.AssemblyInfoInputs.cache
+C:\Users\Montana\Desktop\battle\obj\Debug\net7.0\battle.AssemblyInfo.cs
+C:\Users\Montana\Desktop\battle\obj\Debug\net7.0\battle.csproj.CoreCompileInputs.cache
+C:\Users\Montana\Desktop\battle\obj\Debug\net7.0\battle.dll
+C:\Users\Montana\Desktop\battle\obj\Debug\net7.0\refint\battle.dll
+C:\Users\Montana\Desktop\battle\obj\Debug\net7.0\battle.pdb
+C:\Users\Montana\Desktop\battle\obj\Debug\net7.0\battle.genruntimeconfig.cache
+C:\Users\Montana\Desktop\battle\obj\Debug\net7.0\ref\battle.dll
