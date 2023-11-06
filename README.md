@@ -16,3 +16,10 @@ The PlayTurn function allows the player to input their guesses for the row and c
 The game continues in a loop, allowing the player to take turns until all ships are sunk. The player wins when all five ships have been successfully hit and sunk.
 
 This code provides a basic example of a Battleship game and can serve as a starting point for building a more feature-rich version with additional gameplay elements.
+
+# How to run
+If you want to run via .cs:
+
+1. Open a new terminal (Terminal -> New Terminal)
+2. Type the command: dotnet run
+
