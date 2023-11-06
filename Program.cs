@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class BattleshipGame
 {
@@ -16,7 +16,7 @@ class BattleshipGame
             PlayTurn();
         }
 
-        Console.WriteLine("Ви виграли! Всі кораблі потоплені.");
+        Console.WriteLine("You won! All ships have been sunk.");
     }
 
     static void InitializeGrid()
@@ -62,29 +62,29 @@ class BattleshipGame
 
     static void PlayTurn()
     {
-        Console.Write("Введіть рядок: ");
+        Console.Write("Enter a row: ");
         int x = int.Parse(Console.ReadLine());
 
-        Console.Write("Введіть стовпець: ");
+        Console.Write("Enter a column: ");
         int y = int.Parse(Console.ReadLine());
 
         if (x < 0 || x > 9 || y < 0 || y > 9)
         {
-            Console.WriteLine("Некоректні координати. Спробуйте ще раз.");
+            Console.WriteLine("Invalid coordinates. Please try again.");
         }
         else if (grid[x, y] == 'X')
         {
-            Console.WriteLine("Ви потопили корабель!");
+            Console.WriteLine("You've sunk a ship!");
             grid[x, y] = 'O';
             remainingShips--;
         }
         else if (grid[x, y] == 'O')
         {
-            Console.WriteLine("Ви вже стріляли сюди.");
+            Console.WriteLine("You've already shot here.");
         }
         else
         {
-            Console.WriteLine("Промах!");
+            Console.WriteLine("Miss!");
             grid[x, y] = 'O';
         }
     }
