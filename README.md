@@ -1,4 +1,4 @@
-# battle
+# battleship
 This code represents a simplified console-based Battleship game implemented in C#. The game is played on a 10x10 grid where the player's goal is to sink five hidden ships (represented by 'X' on the grid) by guessing their locations. Here's a brief description of the code:
 
 The grid is a 10x10 character array used to represent the game board.
